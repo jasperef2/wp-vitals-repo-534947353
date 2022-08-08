@@ -11,11 +11,11 @@
 	"last_updated": "2022-08-08 15:30:00",
 	"sections": {
 		"description": "Provides a custom API endpoint for getting wp vital information",
-		"installation": "Click the activate button and that's it.",
+		"installation": "Provides a custom API endpoint for getting wp vital information /wp-json/ef2/v1/vitals?token=API_KEY. Find your API key at the menu tab 'EF2 Vitals'",
 		"changelog": "<h4>2.0 –  8 augustus 2022</h4><ul><li>Initital release.</li></ul>"
 	},
 	"banners": {
-		"low": "https://rudrastyh.com/wp-content/uploads/updater/banner-772x250.jpg",
-		"high": "https://rudrastyh.com/wp-content/uploads/updater/banner-1544x500.jpg"
+		"low": "https://github.com/jasperef2/wp-vitals-repo-534947353/raw/main/ef2-image.png",
+		"high": "https://github.com/jasperef2/wp-vitals-repo-534947353/raw/main/ef2-image.png"
 	}
 }
