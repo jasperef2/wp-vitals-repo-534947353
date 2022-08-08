@@ -5,8 +5,8 @@
 	"author_profile": "EF2",
 	"version": "2.1",
 	"download_url": "https://github.com/jasperef2/wp-vitals-repo-534947353/blob/main/wp-ef2-vitals.zip",
-	"requires": "3.0",
-	"tested": "5.8",
+	"requires": "5.0",
+	"tested": "6.0.1",
 	"requires_php": "5.3",
 	"last_updated": "2022-08-08 15:00:00",
 	"sections": {
