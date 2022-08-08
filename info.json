@@ -13,5 +13,9 @@
     "description" : "Provides a custom API endpoint for getting wp vital information",
     "installation" : "Click the activate button and that's it.",
     "changelog" : "<h4>2.0 –  8 augustus 2022</h4><ul><li>Initital release.</li></ul>"
+  },
+  "banners" : {
+    "low" : "https://rudrastyh.com/wp-content/uploads/updater/banner-772x250.jpg",
+    "high" : "https://rudrastyh.com/wp-content/uploads/updater/banner-1544x500.jpg"
   }
 }
