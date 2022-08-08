@@ -4,7 +4,7 @@
 	"author": "<a href='https://ef2.nl'>EF2</a>",
 	"author_profile": "EF2",
 	"version": "2.2",
-	"download_url": "https://github.com/jasperef2/wp-vitals-repo-534947353/blob/main/wp-ef2-vitals.zip",
+	"download_url": "https://github.com/jasperef2/wp-vitals-repo-534947353/raw/main/wp-ef2-vitals.zip",
 	"requires": "5.0",
 	"tested": "6.0.1",
 	"requires_php": "5.3",
