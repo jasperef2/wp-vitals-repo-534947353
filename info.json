@@ -8,7 +8,7 @@
 	"requires": "3.0",
 	"tested": "5.8",
 	"requires_php": "5.3",
-	"last_updated": "2022-08-08 00:00:00",
+	"last_updated": "2022-08-08 15:00:00",
 	"sections": {
 		"description": "Provides a custom API endpoint for getting wp vital information",
 		"installation": "Click the activate button and that's it.",
