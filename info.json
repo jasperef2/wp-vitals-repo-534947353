@@ -3,7 +3,7 @@
 	"slug": "wp-ef2-vitals",
 	"author": "<a href='https://ef2.nl'>EF2</a>",
 	"author_profile": "EF2",
-	"version": "1.2",
+	"version": "1.3",
 	"download_url": "https://github.com/jasperef2/wp-vitals-repo-534947353/raw/main/wp-ef2-vitals.zip",
 	"requires": "5.0",
 	"tested": "6.0.1",
@@ -12,7 +12,7 @@
 	"sections": {
 		"description": "Provides a custom API endpoint for getting wp vital information",
 		"installation": "Provides a custom API endpoint for getting wp vital information /wp-json/ef2/v1/vitals?token=API_KEY. Find your API key at the menu tab 'EF2 Vitals'",
-		"changelog": "<h4>1.2 –  8 augustus 2022</h4><ul><li>Initital release.</li></ul>"
+		"changelog": "<h4>1.3 –  9 augustus 2022</h4><ul><li>Initital release.</li></ul>"
 	},
 	"banners": {
 		"low": "https://github.com/jasperef2/wp-vitals-repo-534947353/raw/main/ef2-image.png",
